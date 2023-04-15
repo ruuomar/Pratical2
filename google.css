@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-size: 30px;
+
+}
+.box{padding: 10px;
+    width:400px ;
+    justify-content: center;
+    height: 150px;
+    border:  2px solid black;
+    float: left;
+    margin: 10%;
+    
+}
